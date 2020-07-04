@@ -1,2 +1,2 @@
-# QuLiao1117.github.io
-personal blog
+# my personal blog
+我的个人博客
